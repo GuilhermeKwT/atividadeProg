@@ -1,1 +1,1 @@
-Cada umas das atividade estão localizadas na sua propria branch
+Atividades localizadas nos seus respectivos branches
