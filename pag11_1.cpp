@@ -14,7 +14,7 @@ int main(){
 
     int n;
     cin >> n;
-    cout << "1 " << func(n) << endl;
+    cout << func(n) << endl;
 
     return 0;
 }
